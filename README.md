@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Matt3o0 and I'm mainly interested in aviation and tech
+I'm Matt3o0 and I'm mainly interested in aviation and technology
 
-### Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=duvbolone&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duvbolone&theme=dark)
+`Matt3o0#7010` on Discord
