@@ -9,7 +9,7 @@ I'm Matt3o0 and I'm mainly interested in aviation and technology
   <br>
   <br>
   <a href="https://github.com/crazytimtimtim">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=duvbolone&show_icons=true&theme=transparent&border_radius=50" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=duvbolone&show_icons=true&theme=transparent&border_radius=35" />
   </a>
 </p>
 
