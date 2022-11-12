@@ -4,7 +4,7 @@ I'm Matt3o0 and I'm mainly interested in aviation and technology
 
 <p align="center">
   <a href="https://github.com/duvbolone">
-    <img align="center" src="https://komarev.com/ghpvc/?username=duvbolone&color=blue" />
+    <img align="center" src="https://komarev.com/ghpvc/?username=duvbolone&color=red" />
   </a>
   <br>
   <br>
