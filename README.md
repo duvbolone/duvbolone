@@ -3,9 +3,9 @@
   "username":"Matt3o0",
   "description":"I'm Matt3o0 and I'm mainly interested in aviation and technology",
   "links":{
-    "discord":"https://discord.com/users/668874138160594985",
-    "github":"https://github.com/duvbolone",
-    "site":"matt3o0.is-a.dev"
+    "discord":"https://discord.com/users/668874138160594985/",
+    "github":"https://github.com/duvbolone/",
+    "site":"https://matt3o0.is-a.dev/"
   }
 }
 ```
